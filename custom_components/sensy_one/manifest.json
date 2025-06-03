@@ -1,0 +1,10 @@
+{
+  "domain": "sensy_one",
+  "name": "Sensy One",
+  "documentation": "https://github.com/USERNAME/sensy_one_tracker",
+  "dependencies": [],
+  "codeowners": [],
+  "version": "0.1.0",
+  "config_flow": true,
+  "requirements": []
+}
